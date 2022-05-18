@@ -3,11 +3,12 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** https://hollowhornbear.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![hollowhornbear website](https://user-images.githubusercontent.com/99921497/168976632-94da7932-ea02-4006-b23f-61fae4abe139.png)
+
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+HTML, CSS, JavaScript
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
