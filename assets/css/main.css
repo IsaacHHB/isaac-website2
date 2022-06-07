@@ -71,9 +71,11 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-#devButton{
+#reduce img{
 	display: flex;
 	justify-content: center;
+	width: 50%;
+	margin-left: 23%;
 }
 
 
